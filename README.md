@@ -48,8 +48,8 @@ RT-Thread Studio目前支持J-Link和ST-Link两种调试器
 ## 5.  相关文档
 *  《RT-Thread_Studio用户手册.pdf》  
 该文档在安装完RT-Thread Studio后，通过点击欢迎页的 “帮助文档” 打开，如下图所示  
-![image](/uploads/3a624363f1482c92bfe29c2b095d4664/image.png)  
+![image](https://github.com/rtttest/temptest/blob/master/docs/images/image1.png)  
 也可以在安装完RT-Thread Studio后，直接在安装目录的docs目录中找到该pdf文档  
-![image](/uploads/0ec46944942e2d56fd6bafe6621a3e1a/image.png)  
+![image](https://github.com/rtttest/temptest/blob/master/docs/images/image2.png)  
 该用户手册目录结构预览如下：  
-![image](/uploads/6e4957261f2ff5d1170cfb17fee95adb/image.png)
+![image](https://github.com/rtttest/temptest/blob/master/docs/images/image3.png)
